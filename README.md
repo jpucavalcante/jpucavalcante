@@ -1,3 +1,3 @@
 - Hello, I'm João Pedro, you can call me Pedro.
 - Currently a computer science undergrad student at Universidade de São Paulo (USP) with a focus on Data Science.
-- Also, particulary interested in smart cities, insights and communicating findings in a clear manner.
+- This github has my projects for the DATA ICMC study group.
